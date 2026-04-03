@@ -22,9 +22,8 @@ The model is built using Random Forest Regression and deployed with Streamlit fo
 </p>
 
 
-🧠 Machine Learning Details
-# Algorithm: Random Forest Regressor
-### Problem Type: Regression
+## 🧠 Machine Learning Details
+### Algorithm: Random Forest Regressor
 Libraries Used:
 pandas
 scikit-learn
@@ -62,7 +61,7 @@ The application provides an interactive dashboard where users can input patient 
 
 ## ⚡ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/salary-predictor.git
+git clone https://github.com/ManuSaviour1506/salary_prediction.git
 cd salary-predictor
 2️⃣ Install Dependencies
 pip install -r requirements.txt
